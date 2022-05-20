@@ -1,1 +1,1 @@
-Math student currently studying cybersecurity
+Math student currently focusing on Cybersecurity
