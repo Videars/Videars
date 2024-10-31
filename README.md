@@ -8,5 +8,5 @@ C/C++, C#, Python, R, MatLab, Bash
 
 ### Contacts
 Email: matt.videars@gmail.com  
-LinkedIn: https://www.linkedin.com/in/matteo-vicari-mv989/
+LinkedIn: https://www.linkedin.com/in/matteo-vicari-mv989/ \
 Website: https://videars.github.io
